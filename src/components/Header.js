@@ -1,5 +1,9 @@
 const Header = () => {
-    return <h1>Goals Log: Zia & Mufaddal</h1>
+    return( 
+        <div className="header">
+            <h1>Goals Log of Zia & Mufaddal</h1>
+        </div>
+    )
 }
 
 export default Header

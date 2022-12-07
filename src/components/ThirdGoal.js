@@ -1,8 +1,10 @@
 const ThirdGoal = () => {
-    return(
+    return (
         <li>
-            <h3>Third Goal</h3>
-            <p>The third goal is to practice react</p>
+            <h2>Getting started with ReactJs</h2>
+            <p>
+                It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript. In React, you develop your applications by creating reusable components that you can think of as independent Lego blocks.
+            </p>
         </li>
     );
 }
